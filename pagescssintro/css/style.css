@@ -1,0 +1,25 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+p {
+    font-size: 20px;
+    background-color: red;
+    font-weight: bold;
+}
+
+#Semaines {
+    text-decoration: underline;
+}
+
+ol {
+    font-style: italic;
+}
+
+ul {
+    font-style: italic;
+}
